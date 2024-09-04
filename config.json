@@ -1,7 +1,7 @@
 {
     "Config": [
         {
-            "loader_status": true,
+            "loader_status": false,
             "loader_status_msg": "The loader is currently under maintenance.\nPlease come back when maintenance is complete.\nKeep an eye on our telegram channel to get notifications.\n",
             "loader_folder": "floader",
             "loader_version": 1,
