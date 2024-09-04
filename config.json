@@ -6,7 +6,7 @@
             "loader_folder": "floader",
             "loader_version": 1,
             "loader_update_msg": "Change Log:\n* Security update\n",
-            "loader_link": "https://github.com/awkarinss31/floader/raw/main/floader.zip"
+            "loader_link": "https://github.com/awkarinss31/floader/raw/main/floader.zip?raw=true"
         }
     ]
 }
