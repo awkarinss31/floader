@@ -4,7 +4,7 @@
             "loader_status": true,
             "loader_status_msg": "The loader is currently under maintenance.\nPlease come back when maintenance is complete.\nKeep an eye on our telegram channel to get notifications.\n",
             "loader_folder": "floader",
-            "loader_version": 2,
+            "loader_version": 1,
             "loader_update_msg": "Change Log:\n* Security update\n",
             "loader_link": "https://github.com/awkarinss31/floader/raw/main/floader.zip"
         }
